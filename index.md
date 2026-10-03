@@ -19,7 +19,7 @@ btrd is a lightweight utility designed to optimize Windows, automate routine tas
 
 ## Legal Information
 
-* [Privacy Policy](./privacy)
+* [Privacy Policy](./privacy.md)
 
 ---
 
